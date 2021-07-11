@@ -1,0 +1,16 @@
+C:\Users\william\Desktop\visual studio\SpaceGame\SpaceGame\bin\Debug\SpaceGame.exe.config
+C:\Users\william\Desktop\visual studio\SpaceGame\SpaceGame\bin\Debug\SpaceGame.exe.manifest
+C:\Users\william\Desktop\visual studio\SpaceGame\SpaceGame\bin\Debug\SpaceGame.application
+C:\Users\william\Desktop\visual studio\SpaceGame\SpaceGame\bin\Debug\SpaceGame.exe
+C:\Users\william\Desktop\visual studio\SpaceGame\SpaceGame\bin\Debug\SpaceGame.pdb
+C:\Users\william\Desktop\visual studio\SpaceGame\SpaceGame\obj\Debug\Interop.WMPLib.dll
+C:\Users\william\Desktop\visual studio\SpaceGame\SpaceGame\obj\Debug\SpaceGame.csproj.ResolveComReference.cache
+C:\Users\william\Desktop\visual studio\SpaceGame\SpaceGame\obj\Debug\SpaceGame.SpaceForm.resources
+C:\Users\william\Desktop\visual studio\SpaceGame\SpaceGame\obj\Debug\SpaceGame.Properties.Resources.resources
+C:\Users\william\Desktop\visual studio\SpaceGame\SpaceGame\obj\Debug\SpaceGame.csproj.GenerateResource.Cache
+C:\Users\william\Desktop\visual studio\SpaceGame\SpaceGame\obj\Debug\SpaceGame.csproj.CoreCompileInputs.cache
+C:\Users\william\Desktop\visual studio\SpaceGame\SpaceGame\obj\Debug\SpaceGame.exe.manifest
+C:\Users\william\Desktop\visual studio\SpaceGame\SpaceGame\obj\Debug\SpaceGame.application
+C:\Users\william\Desktop\visual studio\SpaceGame\SpaceGame\obj\Debug\SpaceGame.exe
+C:\Users\william\Desktop\visual studio\SpaceGame\SpaceGame\obj\Debug\SpaceGame.pdb
+C:\Users\william\Desktop\visual studio\SpaceGame\SpaceGame\obj\Debug\SpaceGame.csprojAssemblyReference.cache

@@ -1,0 +1,10 @@
+D:\Cavid\Projelerim\checkers\checkers\bin\Debug\checkers.exe.config
+D:\Cavid\Projelerim\checkers\checkers\bin\Debug\checkers.exe
+D:\Cavid\Projelerim\checkers\checkers\bin\Debug\checkers.pdb
+D:\Cavid\Projelerim\checkers\checkers\obj\Debug\checkers.csprojAssemblyReference.cache
+D:\Cavid\Projelerim\checkers\checkers\obj\Debug\checkers.Form1.resources
+D:\Cavid\Projelerim\checkers\checkers\obj\Debug\checkers.Properties.Resources.resources
+D:\Cavid\Projelerim\checkers\checkers\obj\Debug\checkers.csproj.GenerateResource.cache
+D:\Cavid\Projelerim\checkers\checkers\obj\Debug\checkers.csproj.CoreCompileInputs.cache
+D:\Cavid\Projelerim\checkers\checkers\obj\Debug\checkers.exe
+D:\Cavid\Projelerim\checkers\checkers\obj\Debug\checkers.pdb

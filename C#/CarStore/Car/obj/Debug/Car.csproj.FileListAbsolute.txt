@@ -1,0 +1,17 @@
+D:\programlar\car\Car\Car\bin\Debug\Car.exe.config
+D:\programlar\car\Car\Car\bin\Debug\Car.exe
+D:\programlar\car\Car\Car\bin\Debug\Car.pdb
+D:\programlar\car\Car\Car\bin\Debug\Guna.UI.dll
+D:\programlar\car\Car\Car\obj\Debug\Car.csprojAssemblyReference.cache
+D:\programlar\car\Car\Car\obj\Debug\Car.Form1.resources
+D:\programlar\car\Car\Car\obj\Debug\Car.Properties.Resources.resources
+D:\programlar\car\Car\Car\obj\Debug\Car.csproj.GenerateResource.cache
+D:\programlar\car\Car\Car\obj\Debug\Car.csproj.CoreCompileInputs.cache
+D:\programlar\car\Car\Car\obj\Debug\Car.csproj.CopyComplete
+D:\programlar\car\Car\Car\obj\Debug\Car.exe
+D:\programlar\car\Car\Car\obj\Debug\Car.pdb
+D:\programlar\car\Car\Car\bin\Debug\Car.exe.manifest
+D:\programlar\car\Car\Car\bin\Debug\Car.application
+D:\programlar\car\Car\Car\obj\Debug\Car.exe.manifest
+D:\programlar\car\Car\Car\obj\Debug\Car.application
+D:\programlar\car\Car\Car\obj\Debug\Car.Form2.resources
